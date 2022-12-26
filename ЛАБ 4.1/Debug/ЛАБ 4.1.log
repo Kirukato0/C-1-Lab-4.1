@@ -1,0 +1,4 @@
+﻿  ЛАБ 4.1.cpp
+C:\Users\066\source\repos\ЛАБ 4.1\ЛАБ 4.1.cpp(70,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\066\source\repos\ЛАБ 4.1\ЛАБ 4.1.cpp(65): warning C4172: возвращение адреса локальной или временной переменной : n1
+  ЛАБ 4.1.vcxproj -> C:\Users\066\source\repos\ЛАБ 4.1\Debug\ЛАБ 4.1.exe
